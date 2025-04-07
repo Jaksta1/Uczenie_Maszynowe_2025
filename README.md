@@ -8,3 +8,5 @@ Link do drugiej pracy domowej: https://github.com/Jaksta1/Uczenie_Maszynowe_2025
 Link do trzeciej pracy domowej: https://github.com/Jaksta1/Uczenie_Maszynowe_2025/blob/main/Jakub_Kownacki_praca_domowa_3.ipynb
 
 Link do czwartej pracy domowej: https://github.com/Jaksta1/Uczenie_Maszynowe_2025/blob/main/Jakub_Kownacki_praca_domowa_4.ipynb
+
+Link do piątej pracy domowej: https://github.com/Jaksta1/Uczenie_Maszynowe_2025/blob/main/Jakub_Kownacki_praca_domowa_5.ipynb
