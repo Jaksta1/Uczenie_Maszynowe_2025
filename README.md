@@ -18,3 +18,5 @@ Link do siódmej pracy domowej: https://github.com/Jaksta1/Uczenie_Maszynowe_202
 Link do ósmej pracy domowej: https://github.com/Jaksta1/Uczenie_Maszynowe_2025/blob/main/Jakub_Kownacki_praca_domowa_8.ipynb
 Uwaga: W pliku zostały usunięte wszystkie dane wyjściowe (animacje i wykresy) w celu zapisania go w usłudze Github. 
 Aby zobaczyć animacje należy otworzyć plik w Google Colab i wykonać wszystkie komórki kodu, może to zająć kilka minut
+
+Link do dziewiątej pracy domowej: https://github.com/Jaksta1/Uczenie_Maszynowe_2025/blob/main/Jakub_Kownacki_praca_domowa_9.ipynb
