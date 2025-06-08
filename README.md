@@ -26,3 +26,6 @@ Link do dziesiątej pracy domowej: https://github.com/Jaksta1/Uczenie_Maszynowe_
 Link do poprawionej pracy domowej 10: https://github.com/Jaksta1/Uczenie_Maszynowe_2025/blob/main/Jakub_Kownacki_praca_domowa_10_popr.ipynb
 
 Link do jedenastej pracy domowej: https://github.com/Jaksta1/Uczenie_Maszynowe_2025/blob/main/Jakub_Kownacki_praca_domowa_11.ipynb
+
+Link do dwunastej pracy domowej:
+https://github.com/Jaksta1/Uczenie_Maszynowe_2025/blob/main/Jakub_Kownacki_praca_domowa_12.ipynb
