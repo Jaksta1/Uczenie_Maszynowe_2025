@@ -32,3 +32,5 @@ https://github.com/Jaksta1/Uczenie_Maszynowe_2025/blob/main/Jakub_Kownacki_praca
 
 Link do trzynastej pracy domowej:
 https://github.com/Jaksta1/Uczenie_Maszynowe_2025/blob/main/Jakub_Kownacki_praca_domowa_13.ipynb
+Link zapasowy do trzynastej pracy domowej w przypadku, gdy github nie renderuje pliku, bo jest zbyt duży
+https://colab.research.google.com/github/Jaksta1/Uczenie_Maszynowe_2025/blob/main/Jakub_Kownacki_praca_domowa_13.ipynb
